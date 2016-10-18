@@ -4,25 +4,20 @@ Your responsibilities:
 
 * Work with the other front-end developers to help build our single-page app 
 using React, Redux, and Node.js
-
 * Create HTML/CSS based on designs from our designer
-
 * Integrate with back-end services written in Node. And write some too if you're
   up for it!
-
 * Collaborate with other members of the front-end team
 
 Your skills:
 
 * Strong single-page app experience with React and Redux
-
 * Excellent communication skills
 
 
 Bonus:
 
 * Experience building cloud software solutions
-
 * Experience building RESTful APIs
 
 
