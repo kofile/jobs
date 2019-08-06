@@ -1,25 +1,23 @@
 We're looking for experienced front-end engineers to help develop our cloud service for local governments. 
 
-Your responsibilities:
+This is a remote position. US only.
 
-* Work with the other front-end developers to help build our single-page app 
-using React, Redux, Hooks, and Node.js
-* Create HTML/CSS based on designs from our designer
-* Create accessible markup and Javascript
-* Integrate with back-end services written in Node. And write some too if you're
-  up for it!
-* Collaborate with other members of the team
+We're looking for people with:
 
-Your skills:
+* Deep experience creating responsive HTML/CSS layouts. 
+* Experience building robust React-based front-ends with Redux and/or hooks. 
+* Experience creating accessible markup and Javascript
 
-* Strong single-page app experience with React 
-* Excellent HTML/CSS skills
-* Excellent communication skills
+Bonus points for:
+
+* Experience interacting with RESTful APIs and/or websockets APIs
+* Experience with Node.js back-end code.
+
+Our application is a search portal for public records, built on modern dev stack
+with modern dev practices. Most government web sites are terrible - come help us build 
+one that doesn't suck.
 
 
-Bonus:
 
-* Experience building cloud software solutions
-* Experience building RESTful APIs
 
 
